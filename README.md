@@ -8,5 +8,4 @@ Demo project to learn collaboratin with Github
 3. Switch to the branch project_number_ using git checkout <branch name>
 4. Open any of the three incomplete python files
 5. Start developing!
-
-
+6. did it for just sake of learning.
